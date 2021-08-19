@@ -1,0 +1,8 @@
+﻿  spin.c
+C:\Users\adima\Documents\PreviousProjects\Organized Projects\RandomOpenGLPrograms\ECE406\Homeworks\Homework5\Project2\Project2\spin.c(31,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\adima\Documents\PreviousProjects\Organized Projects\RandomOpenGLPrograms\ECE406\Homeworks\Homework5\Project2\Project2\spin.c(32,43): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\adima\Documents\PreviousProjects\Organized Projects\RandomOpenGLPrograms\ECE406\Homeworks\Homework5\Project2\Project2\spin.c(33,43): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\adima\Documents\PreviousProjects\Organized Projects\RandomOpenGLPrograms\ECE406\Homeworks\Homework5\Project2\Project2\spin.c(55,27): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\adima\Documents\PreviousProjects\Organized Projects\RandomOpenGLPrograms\ECE406\Homeworks\Homework5\Project2\Project2\spin.c(86,25): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\adima\Documents\PreviousProjects\Organized Projects\RandomOpenGLPrograms\ECE406\Homeworks\Homework5\Project2\Project2\spin.c(88,26): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  Project2.vcxproj -> C:\Users\adima\Documents\PreviousProjects\Organized Projects\RandomOpenGLPrograms\ECE406\Homeworks\Homework5\Project2\Debug\Project2.exe
