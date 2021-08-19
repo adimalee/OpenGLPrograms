@@ -1,0 +1,4 @@
+﻿  gasket.c
+C:\Users\adima\Documents\PreviousProjects\Organized Projects\RandomOpenGLPrograms\ECE406Projects\Project1\Project1\gasket.c(53,39): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\adima\Documents\PreviousProjects\Organized Projects\RandomOpenGLPrograms\ECE406Projects\Project1\Project1\gasket.c(54,39): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Project1.vcxproj -> C:\Users\adima\Documents\PreviousProjects\Organized Projects\RandomOpenGLPrograms\ECE406Projects\Project1\Debug\Project1.exe
